@@ -1,0 +1,9 @@
+# For CRAN level testing uncomment these torture lines:
+
+# PKG_CFLAGS = -Wall -pedantic
+# PKG_FCFLAGS = -Wall -pedantic
+# PKG_FFLAGS = -Wall -pedantic
+
+# Local Variables:
+# mode: makefile
+# End:

@@ -1,0 +1,10 @@
+
+* Include code CWFCOMPLEX
+   N. Michel (2007): Precise Coulomb wave functions for a wide range of complex
+   ell, eta and z, Computer Physics Communications 176:232.
+   Available at http://cpc.cs.qub.ac.uk/summaries/ADYO.
+   "It can be of interest for statistics, as the functions of this paper, which
+   are Coulomb wave functions, are products of simple functions and of the 1F1
+   and 2F0 confluent hypergeometric functions, used in statistics. It would be
+   then simple to wrap CWFCOMPLEX into 1F1 and 2F0 routines." 
+   

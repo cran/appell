@@ -1,0 +1,4 @@
+export(appellf1)
+export(hyp2f1)
+useDynLib(appell,f1)
+useDynLib(appell,f21_sub)

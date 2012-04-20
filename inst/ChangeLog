@@ -1,0 +1,42 @@
+2012-04-20  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* A bunch of Fortran code modifications necessary to survive the
+	pedantic compiler flags.
+
+	* Replace "write" and "format" calls in Fortran with R-compatible
+	calls, so that no warnings or notes appear in R CMD check.
+
+	* Move ChangeLog file to inst directory to have it installed in
+	the library.
+
+	* TODO: Add CWFCOMPLEX reference.
+
+2012-04-19  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* Finished first pre-release version. The code by Michel and
+	Stoitsov is used as default, because it does not produce NAs in
+	the examples.
+
+2012-04-18  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* I now got the permission by the CPC program library and all
+	authors to use their code in this package. Therefore start to
+	include the code by Michel and Stoitsov and add an option to the
+	appellf1 function to decide between the Gaussian hypergeometric
+	function algorithms. Also add direct R functions for the complex
+	Gaussian hypergeometric function.
+
+2012-03-28  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* Remove Numerical Recipes code for the hypergeometric function
+	and instead work with the code by R. Forrey (chyp.f). This
+	produces more NAs in the examples, but is not proprietary code and
+	also removes a Fortran compiler warning.
+
+	Consider replacing this code with newer one by N. Michel and M. V.
+	Stoitsov (2008, Comput. Phys. Commun. 178:535-551).
+
+2012-03-26  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* Start of the package.
+
