@@ -179,7 +179,7 @@ subroutine rkf45(f,neqn,y,t,tout,relerr,abserr,iflag,work,iwork)
   !
   !
   integer neqn,iflag,iwork(5)
-  double precision y(neqn),t,tout,relerr,abserr,work(1)
+  double precision y(neqn),t,tout,relerr,abserr,work(3+6*neqn)
   !
   external f
   !

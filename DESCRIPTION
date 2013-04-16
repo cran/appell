@@ -15,10 +15,11 @@ Description: This package wraps Fortran code by F. D. Colavecchia and
         M. V. Stoitsov or with Fortran code by R. C.  Forrey. See the
         function documentations for the references and please cite them
         accordingly.
-Version: 0.0-3
-Date: 2012-04-20
+Version: 0.0-4
+Date: 2013-04-16
 Depends: R (>= 2.14.0)
 Collate: 'appellf1.R' 'appell-package.R' 'hyp2f1.R'
-Packaged: 2012-04-20 14:55:22 UTC; daniel
+Packaged: 2013-04-16 15:35:24 UTC; daniel
+NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2012-04-20 15:41:31
+Date/Publication: 2013-04-16 18:14:09

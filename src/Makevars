@@ -4,6 +4,13 @@
 # PKG_FCFLAGS = -Wall -pedantic
 # PKG_FFLAGS = -Wall -pedantic
 
+
+
+# for Fortran array bounds checking (doesn't work now):
+
+# PKG_FFLAGS = -fbounds-check -Wall -Wextra
+# PKG_FCFLAGS = -fbounds-check -Wall -Wextra
+
 # Local Variables:
 # mode: makefile
 # End:

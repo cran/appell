@@ -1,4 +1,4 @@
-9cb55b93e9cddb14dbc8507cef1521fd *DESCRIPTION
+3e60a2a2ada4f1c42b6d299f2f315771 *DESCRIPTION
 357ada6c38951efe994e5b5582037c28 *NAMESPACE
 1d79ae3fffd4a37f686fa6107c7df767 *R/appell-package.R
 67c24c11aba08a921dd130840cf0d322 *R/appellf1.R
@@ -7,7 +7,7 @@
 1c83ea95f7ff73f5cfd0ecdc492cfe54 *examples/appellf1.R
 1fa680b7ebe4a1ea7963eb4426500e88 *examples/hyp2f1.R
 2beb2c37fa39d5ff2c37580fea1f3c26 *examples/testout.txt
-e3cd35085a1953775ca7aa9f7a982b45 *inst/ChangeLog
+99ea71a185851800a9d3b3160e1b2e6d *inst/ChangeLog
 6527eabaf9e9d19f6a5db31c02b9a8fc *inst/TODO
 f285997fe045e9833fe44492154c842e *inst/extdata/table2.dat
 0111a078429f9fe138f39aa66ce9fe45 *inst/extdata/table3.dat
@@ -15,7 +15,7 @@ f285997fe045e9833fe44492154c842e *inst/extdata/table2.dat
 5efcf9e5509fe8e9c0c015f2079dedf7 *man/appell-package.Rd
 e28e1ddb47cad013b5a7c85cf3cfa6c2 *man/appellf1.Rd
 c25e3541201ed1e2c62db8524cc2e0c4 *man/hyp2f1.Rd
-8b7e0438ccd4a2527e3135ad277e722a *src/Makevars
+2cbc2202d4a67022ac78506acf94583b *src/Makevars
 aa0a7bfb1989cdc3cb389424344a21ac *src/check_parms.f90
 819a92cfd01f842f7716e705f5cc9472 *src/chyp.f
 87f5fa1fdd2697196dca9436dcebab75 *src/f1bnl.f90
@@ -34,5 +34,5 @@ cf41cd8ce25c3afa92ee8f4ae23b9398 *src/gamma.f90
 972f1df4e4e0c38ca206db2d33af3aa1 *src/isneg.f90
 6165bedb6f2fcfb3f534a4f5de6a6d02 *src/print.f
 b1424aaae5fe615017410b7438627194 *src/printfortran.c
-c7009d1543e029827d7d12645bdc7d31 *src/rkf45.f90
+3fbd47e489399693a6bec9b09c36e01e *src/rkf45.f90
 3b3f7de69a22f0357cf0ffff1870e0c3 *src/writef1.f90

@@ -1,3 +1,8 @@
+2013-04-16  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
+
+	* Some Fortran improvement triggered by an email from Brian
+	Ripley. 
+
 2012-04-20  Daniel Sabanés Bové  <daniel.sabanesbove@ifspm.uzh.ch>
 
 	* A bunch of Fortran code modifications necessary to survive the
